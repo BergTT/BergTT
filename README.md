@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BergTT
+- 👋 Hi, I’m Neudemberg Andrade enthusiastic about technology and data analyst.
 - 👀 I’m interested in in developing my level of English and programming
-- 🌱 I’m currently learning Phyton and R
+- 🌱 I’m currently learning Phyton, SQL, Big Date,  and R
 - 📫 How to reach me neudemberg.andrade@gmail.com
 - ⚡ Fun fact: i'm like play league of legends
 
